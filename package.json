@@ -33,6 +33,6 @@
     "fclone": "^1.0.11",
     "node-stream-zip": "^1.11.3",
     "sax-stream": "^1.3.0",
-    "ssf": "^0.11.2"
+    "ssf": "git+https://github.com/PolymerSearch/ssf.git"
   }
 }
